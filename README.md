@@ -1,4 +1,4 @@
-# Introduction 
+# <a align="center">Introduction</a> 
 Certificate verification is a `CRUD` simple student project for verification of certs displaying scanned certs, students details and profile photo
 ## Technologies
 - PHP
